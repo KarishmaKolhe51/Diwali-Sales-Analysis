@@ -1,4 +1,4 @@
-# Diwali-Sales-Analysis
+# Diwali Sales Analysis
 
 ### Project Highlights:
 1. **Data Exploration**: Delved deep into sales data to uncover trends, pateerns, and key insights.
